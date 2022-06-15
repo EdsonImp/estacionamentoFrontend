@@ -1,0 +1,27 @@
+.email{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+input{
+   border: 0;
+   border-radius: 5px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+button{
+    border: 0; 
+    margin-right: 5px;
+    border-radius: 5px;
+    color: rgb(122, 122, 106);
+}
+.label-error{
+    background-color: rgb(172, 119, 39);
+    width: 220px;
+    border-radius: 5px;
+    color: rgb(240, 233, 232);
+    margin-bottom: 10px;
+}

@@ -1,0 +1,21 @@
+.menu a{
+    display: block;
+    
+   
+}
+aside.menu-area{
+     display: block;
+   
+    background-color: rgb(16, 13, 19);
+    padding-left: 5px;
+   
+ }
+ nav.menu a {
+    color: rgb(161, 156, 159);
+    font-weight: bold;
+    text-decoration: none;
+ }
+ .menu a:hover{
+     background: rgb(163, 162, 162);
+     color: rgb(48, 44, 44);
+ }

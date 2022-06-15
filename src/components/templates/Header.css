@@ -1,0 +1,10 @@
+.login{
+    display: flex;
+    justify-content: flex-end;
+}
+.status{
+    margin-right: 10px;
+}
+.header{
+    margin-left: 10px;
+}
